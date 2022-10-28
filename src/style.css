@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  border: 1px solid black;
+  width: 20px;
+  height: 40px;
+  width: 160px;
+}
+.title,
+.id,
+.event_id,
+.event_date {
+  border: 1px solid black;
+  width: 160px;
+  /* height: 30px; */
+}
+.title_x,
+.item {
+  display: flex;
+  width: 1200;
+}
+
+.tickets {
+  display: flex;
+  width: 1120px;
+}
