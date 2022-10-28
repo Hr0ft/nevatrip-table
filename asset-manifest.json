@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nevatrip-table/static/css/main.a3db5661.css",
+    "main.js": "/nevatrip-table/static/js/main.db5e1a3a.js",
+    "index.html": "/nevatrip-table/index.html",
+    "main.a3db5661.css.map": "/nevatrip-table/static/css/main.a3db5661.css.map",
+    "main.db5e1a3a.js.map": "/nevatrip-table/static/js/main.db5e1a3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3db5661.css",
+    "static/js/main.db5e1a3a.js"
+  ]
+}
